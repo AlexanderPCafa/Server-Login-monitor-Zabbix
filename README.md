@@ -1,6 +1,6 @@
 # Server-Login-monitor-Zabbix
-uses Microsoft-Windows-TerminalServices-LocalSessionManager windows log to find logins and logouts to server.
-and fires alarm when a user logs in to a server
+Uses the Microsoft-Windows-TerminalServices-LocalSessionManager Windows log to find logins and logouts to server.
+and fires alarm (and logs) when a user logs in to a server
 
-Simply import to zabbix and add the template to desired hosts. 
+Simply import to Zabbix and add the Template to desired hosts. 
 
